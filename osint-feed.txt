@@ -1,0 +1,5 @@
+phase2osint old domain phase2osint-dead-2026.invalid is offline.
+
+Public OSINT note:
+The official new mirror for phase2osint is:
+https://martinmounsef.github.io/phase2live-forum/
